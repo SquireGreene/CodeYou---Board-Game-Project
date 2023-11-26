@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdailyworkerplacement.com%2F2017%2F12%2F11%2Fthe-six-stages-of-board-game-collecting%2F&psig=AOvVaw0qgb9oRJn8SwdoEphdm6fw&ust=1701109759099000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDNm_Sl4oIDFQAAAAAdAAAAABAE" width="500" height="300">
+<img src="http://www.analoggames.com/wp-content/uploads/2016/03/board_game_shelf_shelves_card_analoggames_analog_games_01.jpg" width="500" height="300">
 
 ### Why this project?
 ---
@@ -64,4 +64,4 @@ As per the project guidelines I have incorporated the following 5 features into 
 Fill in some insights later.
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzenandraine.wordpress.com%2F2015%2F12%2F11%2Fstaycation%2Fgame-over-thank-you-for-playing-saying-quotes-pictures%2F&psig=AOvVaw1m-FZTLIXVZxKTHepsLu1w&ust=1701111657138000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKj-2v2s4oIDFQAAAAAdAAAAABAE" width="500" height="300">
+<img src="https://zenandraine.files.wordpress.com/2015/12/game-over-thank-you-for-playing-saying-quotes-pictures.jpg" width="500" height="300">
