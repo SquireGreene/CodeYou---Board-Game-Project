@@ -1,0 +1,310 @@
+ID,Value
+1,Action Queue
+2, Action Retrieval
+3, Campaign / Battle Card Driven
+4, Card Play Conflict Resolution
+5, Communication Limits
+6, Cooperative Game
+7, Deck Construction
+8, Deck Bag and Pool Building
+9, Grid Movement
+10, Hand Management
+11, Hexagon Grid
+12, Legacy Game
+13, Modular Board
+14, Once-Per-Game Abilities
+15, Scenario / Mission / Campaign Game
+16, Simultaneous Action Selection
+17, Solo / Solitaire Game
+18, Storytelling
+19, Variable Player Powers
+20,Action Points
+21, Point to Point Movement
+22, Set Collection
+23, Trading
+24,Hand Management
+25, Income
+26, Loans
+27, Market
+28, Network and Route Building
+29, Score-and-Reset Game
+30, Tech Trees / Tech Tracks
+31, Turn Order: Stat-Based
+32, Variable Set-up
+33,Card Drafting
+34, Drafting
+35, End Game Bonuses
+36, Take That
+37, Tile Placement
+38, Turn Order: Progressive
+39,Action Drafting
+40, Area Majority / Influence
+41, Area-Impulse
+42, Dice Rolling
+43, Follow
+44, Variable Phase Order
+45, Voting
+46, Critical Hits and Failures
+47, Line of Sight
+48, Auction/Bidding
+49, Auction: Dutch
+50, Card Drafting
+51, Events
+52,End Game Bonuses
+53, Turn Order: Pass Order
+54, Victory Points as a Resource
+55,Area Majority / Influence
+56, Area Movement
+57, Delayed Purchase
+58, Team-Based Game
+59,Action/Event
+60, Advantage Token
+61, Simulation
+62, Sudden Death Ending
+63, Tug of War
+64,Deck Bag and Pool Building
+65, Ownership
+66, Rondel
+67, Track Movement
+68, Hidden Movement
+69, Movement Points
+70,Action Retrieval
+71, Force Commitment
+72, King of the Hill
+73, Moving Multiple Units
+74, Narrative Choice / Paragraph
+75,Dice Rolling
+76, Grid Coverage
+77, Worker Placement with Dice Workers
+78, Increase Value of Unchosen Resources
+79,Automatic Resource Growth
+80, Pattern Building
+81, Push Your Luck
+82, Worker Placement
+83, Role Playing
+84,Contracts
+85, Turn Order: Auction
+86, Different Worker Types
+87,Campaign / Battle Card Driven
+88, Hidden Roles
+89, Player Elimination
+90, Semi-Cooperative Game
+91, Traitor Game
+92, Race
+93, Hidden Victory Points
+94, Turn Order: Claim Action
+95,Advantage Token
+96, Automatic Resource Growth
+97, Enclosure
+98, Memory
+99,Area Movement
+100,Cooperative Game
+101, Map Addition
+102, Pick-up and Deliver
+103, Stock Holding
+104,Auction/Bidding
+105, Auction: Turn Order Until Pass
+106, Catch the Leader
+107,Bias
+108,Communication Limits
+109, Trick-taking
+110, Bias
+111, Programmed Movement
+112, Die Icon Resolution
+113,Commodity Speculation
+114, Contracts
+115, Resource to Move
+116, Roles with Asymmetric Information
+117, Stat Check Resolution
+118, Turn Order: Role Order
+119, Secret Unit Deployment
+120, Investment
+121,Follow
+122, Highest-Lowest Scoring
+123,Catch the Leader
+124,Flicking
+125, Constrained Bidding
+126, Mancala
+127, Square Grid
+128, Auction: Fixed Placement
+129, Multiple-Lot Auction
+130,Ownership
+131,Drafting
+132, Lose a Turn
+133, Alliances
+134, Auction: Sealed Bid
+135, Betting and Bluffing
+136, Negotiation
+137, Time Track
+138, Connections
+139, Pieces as Map
+140, Targeted Clues
+141, Order Counters
+142, Movement Template
+143, Multiple Maps
+144,Bingo
+145, Line Drawing
+146, Paper-and-Pencil
+147, Selection Order Bid
+148, Re-rolling and Locking
+149, Action Queue
+150,Hidden Roles
+151, Prisoner's Dilemma
+152, I Cut You Choose
+153,Alliances
+154, Kill Steal
+155, Passed Action Token
+156, Command Cards
+157,Increase Value of Unchosen Resources
+158, Interrupts
+159, Move Through Deck
+160, Roll / Spin and Move
+161,Auction: Dutch
+162,Deck Construction
+163,Grid Movement
+164, Real-Time
+165,Connections
+166,Race
+167, Three Dimensional Movement
+168, Ladder Climbing
+169, Predictive Bid
+170,Enclosure
+171,Card Play Conflict Resolution
+172, Auction: Once Around
+173, Closed Economy Auction
+174, Commodity Speculation
+175, Relative Movement
+176,Deduction
+177, Cube Tower
+178,Auction: Turn Order Until Pass
+179, Random Production
+180,Storytelling
+181, Elapsed Real Time Ending
+182, Auction: English
+183,Hidden Movement
+184, Melding and Splaying
+185, Chaining
+186,Grid Coverage
+187,Chaining
+188, Slide/Push
+189, Pattern Movement
+190, Static Capture
+191, Rock-Paper-Scissors
+192, Deduction
+193, Finale Ending
+194, Pattern Recognition
+195,Real-Time
+196,Paper-and-Pencil
+197, Bribery
+198, Map Deformation
+199, Map Reduction
+200,Events
+201, Turn Order: Random
+202,Critical Hits and Failures
+203, Ratio / Combat Results Table
+204,Hexagon Grid
+205, Minimap Resolution
+206, Layering
+207,Acting
+208, Singing
+209,Worker Placement
+210,Betting and Bluffing
+211, Action/Event
+212, Stacking and Balancing
+213,Pattern Recognition
+214,Investment
+215,Point to Point Movement
+216,Layering
+217, Different Dice Movement
+218,Predictive Bid
+219,Pick-up and Deliver
+220,Modular Board
+221,Line Drawing
+222,Tile Placement
+223,Push Your Luck
+224, Measurement Movement
+225,Auction: Dutch Priority
+226,Market
+227,Set Collection
+228, Single Loser Game
+229,Move Through Deck
+230, Flicking
+231,Action Timer
+232, Action Points
+233, Auction: Dutch Priority
+234,Map Deformation
+235,Rock-Paper-Scissors
+236,Network and Route Building
+237, Physical Removal
+238,Command Cards
+239,Induction
+240,Player Elimination
+241,I Cut You Choose
+242,Rondel
+243,Auction: Sealed Bid
+244,Stacking and Balancing
+245, Player Judge
+246, Speed Matching
+247,Speed Matching
+248,Roles with Asymmetric Information
+249,Voting
+250,Memory
+251,Team-Based Game
+252,Simultaneous Action Selection
+253, Crayon Rail System
+254,Trick-taking
+255,Score-and-Reset Game
+256,Chit-Pull System
+257, Zone of Control
+258,Melding and Splaying
+259,Pattern Building
+260,Solo / Solitaire Game
+261,Mancala
+262,Role Playing
+263, Matching
+264,Crayon Rail System
+265,Take That
+266, Chit-Pull System
+267,Roll / Spin and Move
+268,Variable Player Powers
+269,Hidden Victory Points
+270,Secret Unit Deployment
+271,Physical Removal
+272,Simulation
+273, Auction: Dexterity
+274,Bribery
+275, Impulse Movement
+276,Cube Tower
+277,Area-Impulse
+278,Line of Sight
+279, Action Timer
+280,Lose a Turn
+281,Hot Potato
+282,Prisoner's Dilemma
+283,Stock Holding
+284,Multiple Maps
+285,Time Track
+286,Square Grid
+287,Ladder Climbing
+288,Trading
+289, Hot Potato
+290,Closed Economy Auction
+291,Targeted Clues
+292,Map Reduction
+293,Legacy Game
+294,Player Judge
+295,Variable Phase Order
+296,Income
+297,Traitor Game
+298,Measurement Movement
+299,Once-Per-Game Abilities
+300,Map Addition
+301,Elapsed Real Time Ending
+302,Die Icon Resolution
+303,Scenario / Mission / Campaign Game
+304,Singing
+305,Resource to Move
+306,Movement Template
+307,Loans
+308,Negotiation
+309,Semi-Cooperative Game
