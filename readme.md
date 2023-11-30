@@ -61,7 +61,25 @@ As per the project guidelines I have incorporated the following 5 features into 
 5. **Interpretation of your data:** Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
 ### Insights
-Fill in some insights later.
+This project was a lot of fun, as it gave me insight into the people closest to me and the types of board games they prefer to play. I especially was interested in seeing where we overlap in taste as a playgroup in game quality,game complexity, and game mechanics -- as well as just game titles themselves.
+
+I expected some of the results gained through this project:
+
+1. The players that liked the highest rated games are some of the folks most interested in the hobby, and therefore the people exposed to the largest variety of games.
+2. The players that enjoyed the games with the highest complexity ratings tended to also follow my expectations, as I have been gaming with some of these folks for years and know they like big, complex games. Also, Adam and Travis are not into heavy games like the rest of teh players in my playgroup and that came through in my analysis.
+3. It also did not surprise me that Wingspan is the game we have most in common. It is a beautifully produced mid-weight game that has a lot of crowd appeal.
+
+Some things I didn't expect:
+
+1. I did not expect our favorite mechanic to be *income.* I know our group does have a strong bias towards economic games, but I thought it would get beaten out by a mroe core mechanic like *worker placement* or *card drafting*. It goes to show how common "incoming" can be in board games and how prevelant it is as a secondary or additional mechanic.
+
+2. I was also surprised by how many players in my group like Clue! or one of the Clue variants. I will have to look to add a few Clue-like games to my collection!
+
+### Acknowledgements
+
+I'd like to thank Clay, Matt, and John for being excellent mentors during this course as I start my Python and SQL journey! Double shout out to John for helping me with the SQLlite pivot tables. I'd like to thank Rob, Rui, and Ailene for being great classmates, and helping me test my project on their machines. I'd be remiss if I also didn't mention my lovely fiancee Shelley, who continues to support all of my coding endeavors and lets me obsessively pound away on the keyboard some nights!
+
+
 
 
 <img src="https://zenandraine.files.wordpress.com/2015/12/game-over-thank-you-for-playing-saying-quotes-pictures.jpg" width="500" height="300">
