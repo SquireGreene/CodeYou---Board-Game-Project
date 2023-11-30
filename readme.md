@@ -28,7 +28,7 @@ My data anlysis is more explicitly addressed in the markdown sections of the Dat
 - What are the most popular games in my playgroup?
 - Who in my playgroup likes the newest and the oldest games?
 - What are the most popular mechanics in my playgroup?
-- What are the most populat themes in my playgroup?
+- What are the most popular genres in my playgroup?
 
 The bulk of this project uses a Jupiter Notebook to give insight into these questions and create visualizations to better understand these insights.
 
@@ -51,6 +51,7 @@ To replicate this proect please follow the steps below:
       source venv/Scripts/activate
       pip install -r requirements.txt
       deactivate
+3. Open up the DataInvestigation.ipynb and enjoy!
 
 ### Required Features
 As per the project guidelines I have incorporated the following 5 features into this project:
